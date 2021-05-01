@@ -12,8 +12,8 @@ timestamp = datetime.datetime.now().time() # Throw away the date information
 time.sleep(1)
 dict ={}
 #if (datetime.datetime.now().time() > timestamp):
-#  account_sid = 'AC88c364d72d3a6770433809ca9d4c41f5'
-#  auth_token = 'ced1abad470e156c4d8529db603e8171'
+#  account_sid = ''
+#  auth_token = ''
 #  client = Client(account_sid, auth_token)
 #  client.messages.create(
 #    to="Your Number",
